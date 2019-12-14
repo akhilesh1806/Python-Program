@@ -9,7 +9,7 @@ pwd = getpass.getpass("Enter your Gmail Password: ")
 # connecting to the gmail imap server
 
 mail = imaplib.IMAP4_SSL("imap.gmail.com")
-mail.login('omkarpathak.comp@mmcoe.edu.in', pwd)
+mail.login('akhileshsantoshwar.comp@mmcoe.edu.in', pwd)
 mail.list()
 mail.select('INBOX') # Specify from where to retrieve the email
 
