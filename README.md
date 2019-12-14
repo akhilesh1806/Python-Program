@@ -27,14 +27,10 @@ Nagpur, Maharashtra, India.<br />
 ## Data Structures
 
 1. [Array](https://github.com/akhilesh1806/Python-Program/blob/master/Programs/P30_Array.py)
-    * [More on Arrays..](https://github.com/akhilesh1806/Data-Structures-using-Python/tree/master/Arrays)
 2. [Singly Linked List](https://github.com/akhilesh1806/Python-Program/blob/master/Programs/P31_SinglyLinkedList.py)
 3. [Doubly Linked List](https://github.com/akhilesh1806/Python-Program/blob/master/Programs/P33_DoublyLinkedList.py)
-    * [More on Linked Lists..](https://github.com/akhilesh1806/Data-Structures-using-Python/tree/master/Linked%20Lists)
 4. [Stack](https://github.com/akhilesh1806/Python-Program/blob/master/Programs/P34_Stack.py)
-    * [More on Stacks..](https://github.com/akhilesh1806/Data-Structures-using-Python/tree/master/Stack)
 5. [Queue](https://github.com/akhilesh1806/Python-Program/blob/master/Programs/P39_Queue.py)
-    * [More on Queues..](https://github.com/akhilesh1806/Data-Structures-using-Python/tree/master/Queue)
 6. [Hash Table](https://github.com/akhilesh1806/Python-Program/blob/master/Programs/P78_HashTable.py)
 
 ## Simple Games in Python
