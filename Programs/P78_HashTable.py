@@ -34,7 +34,7 @@ class HashMap(object):
 
 if __name__ == '__main__':
     myDict = HashMap()
-    myDict.insert('Omkar', 'Pathak')
-    myDict.insert('Jagdish', 'Pathak')
-    value = myDict.get('Omkar')
+    myDict.insert('Akhilesh', 'Santoshwar')
+    myDict.insert('Rajendra', 'Santoshwar')
+    value = myDict.get('Akhilesh')
     print(value)
