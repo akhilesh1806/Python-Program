@@ -1,10 +1,6 @@
 # Python-Program
 This is my collection of Python Programs.<br />
 
-_______________________<br />
-
-Akhilesh Santoshwar,<br />
-Nagpur, Maharashtra, India.<br />
 
 ## Sorting Algorithms
 
