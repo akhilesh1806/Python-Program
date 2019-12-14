@@ -54,8 +54,8 @@ This is my collection of Python Programs.<br />
 3. [Depth First Traversal](https://github.com/akhilesh1806/Python-Program/blob/master/Programs/P64_DepthFirstTraversal.py)
 4. [Breadth First Traversal](https://github.com/akhilesh1806/Python-Program/blob/master/Programs/P65_BreadthFirstTraversal.py)
 5. [Count Leaf Nodes](https://github.com/akhilesh1806/Python-Program/blob/master/Programs/P81_count%20leaf%20nodes.py)
-6. [Building Tree from Preorder and Inorder](https://github.com/akhilesh1806/Data-Structures-using-Python/tree/master/Trees/P03_TreeFromInorderAndPreorder.py)
-7. [Print all the paths to leaf nodes](https://github.com/akhilesh1806/Data-Structures-using-Python/tree/master/Trees/P04_RootToLeafPaths.py)
+6. [Building Tree from Preorder and Inorder](https://github.com/akhilesh1806/Python-Program/blob/master/Programs/P82_TreeFromInorderAndPreorder.py)
+7. [Print all the paths to leaf nodes](https://github.com/akhilesh1806/Python-Program/blob/master/Programs/P83_RootToLeafPaths.py)
 
 ## Graphs
 1. [Graph](https://github.com/akhilesh1806/Python-Program/blob/master/Programs/P63_Graph.py)
