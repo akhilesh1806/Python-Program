@@ -121,7 +121,7 @@ With Add, Modify, Search.
 Encrypting and decrypting a message based on some key specified by the user.
 * [Factorial](https://github.com/akhilesh1806/Python-Program/blob/master/Programs/P04_Factorial.py)
 Finding the factorial of a number using recursion.
-* [Fibonacci](https://github.com/akhilesh1806/Python-Program/blob/master/Programs/P08_Fibonnaci.py)
+* [Fibonacci](https://github.com/akhilesh1806/Python-Program/blob/master/Programs/P08_Fibonacci.py)
 Finding the fibonaaci series upto a certain number using recursion.
 * [Count Characters](https://github.com/akhilesh1806/Python-Program/blob/master/Programs/P06_CharCount.py)
 Count the number(frequency) of Characters in a given sentence or string.
