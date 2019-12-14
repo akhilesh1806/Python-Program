@@ -1,4 +1,3 @@
-#python yml app
 name: Python application
 
 on: [push, pull_request]
