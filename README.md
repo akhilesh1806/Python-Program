@@ -59,7 +59,7 @@ This is my collection of Python Programs.<br />
 
 ## Graphs
 1. [Graph](https://github.com/akhilesh1806/Python-Program/blob/master/Programs/P63_Graph.py)
-2. [Breadth First Search](https://github.com/akhilesh1806/Data-Structures-using-Python/blob/master/Graph/P01_BreadthFirstSearch.py)
+2. [Breadth First Search](https://github.com/akhilesh1806/Python-Program/blob/master/Programs/P84_BreadthFirstSearch.py)
 3. [Depth First Search](https://github.com/akhilesh1806/Data-Structures-using-Python/blob/master/Graph/P02_DepthFirstSearch.py)
 4. [Detect Cycle in Directed Graph](https://github.com/akhilesh1806/Data-Structures-using-Python/blob/master/Graph/P03_DetectCycleInDirectedGraph.py)
 5. [Detect Cycle in Undirected Graph](https://github.com/akhilesh1806/Data-Structures-using-Python/blob/master/Graph/P04_DetectCycleInUndirectedGraph.py)
