@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 word = input('Enter the word of which you want to find the meaning: ')
 
 # Get the meaning by scrapping www.vocabulary.com
-url = "https://www.vocabulary.com/dictionary/" + word + ""
+url = ("https://www.vocabulary.com/dictionary/" + word + "")
 htmlfile = urllib.request.urlopen(url)
 soup = BeautifulSoup(htmlfile, 'lxml')
 soup1 = soup.find(class_="short")
