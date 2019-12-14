@@ -40,14 +40,14 @@ if __name__ == '__main__':
     main()
 
     # OUTPUT:
-    # omkarpathak@omkarpathak-Inspiron-3542:~/Documents/GITs/Python-Programs/Programs$ python P40_CipherText.py
-    # Enter your message: omkar
-    # Enter you key [1 - 26]: 2
+   
+    # Enter your message: akhilesh
+    # Enter you key [1 - 26]: 3
     # Encrypt or Decrypt? [E/D]: e
-    # qomct
-    #
-    # omkarpathak@omkarpathak-Inspiron-3542:~/Documents/GITs/Python-Programs/Programs$ python P40_CipherText.py
-    # Enter your message: qomct
-    # Enter you key [1 - 26]: 2
+    # dnklohvk
+    
+    
+    # Enter your message: dnklohvk
+    # Enter you key [1 - 26]: 3
     # Encrypt or Decrypt? [E/D]: d
-    # omkar
+    # akhilesh
