@@ -6,7 +6,7 @@ import urllib.request
 
 def download(tutorialName):
     url = 'https://www.tutorialspoint.com/' + tutorialName + '/' + tutorialName + '_tutorial.pdf'
-    downloadLocation = '/home/omkarpathak/Downloads/'
+    downloadLocation = '/home/akhilesh1806/Downloads/'   #path here
 
     pdf = urllib.request.urlopen(url)
     saveFile = open(downloadLocation + tutorialName +  '.pdf', 'wb')  # because pdf is a binary file
