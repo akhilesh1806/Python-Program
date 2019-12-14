@@ -12,7 +12,7 @@ class Person(object):
         print('My name is', name, 'and I have completed my', education)
 
 if __name__ == '__main__':
-    myObj = Person('Omkar')
+    myObj = Person('Akhilesh')
     myObj.displayInfo()
     print(myObj.name)                           # Can be accessed as it is public variable
     # print(myObj.__education)                  # Throws an error
