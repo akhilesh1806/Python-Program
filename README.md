@@ -97,7 +97,7 @@ This is my collection of Python Programs.<br />
 1. [Introduction and Basics of Numpy](https://github.com/akhilesh1806/Python-Program/blob/master/Numpy/P01_Introduction.py)
 2. [Numpy Data Types](https://github.com/akhilesh1806/Python-Program/blob/master/Numpy/P02_NumpyDataTypes.py)
 3. [Numpy Array Attributes](https://github.com/akhilesh1806/Python-Program/blob/master/Numpy/P03_NumpyAttributes.py)
-4. [Generate Numpy array from various numerical ranges](https://github.com/akhilesh1806/Python-Program/blob/master/Numpy/P04_ArrayFromNumericalRange.py)
+4. [Generate Numpy array from various numerical ranges](https://github.com/akhilesh1806/Python-Program/blob/master/Numpy/P04_ArrayFromNumericalRanges.py)
 5. [Numpy Array Manipulation operations](https://github.com/akhilesh1806/Python-Program/blob/master/Numpy/P05_NumpyArrayManipulation.py)
 6. [Numpy String Functions](https://github.com/akhilesh1806/Python-Program/blob/master/Numpy/P06_NumpyStringFunctions.py)
 7. [Numpy Mathematical Functions](https://github.com/akhilesh1806/Python-Program/blob/master/Numpy/P07_NumpyMathematicalFunctions.py)
