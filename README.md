@@ -77,7 +77,7 @@ This is my collection of Python Programs.<br />
 7. [Sending Mail](https://github.com/akhilesh1806/Python-Program/blob/master/Scripts/P07_ScriptToSendMail.py)
 8. [Counting Number of Words](https://github.com/akhilesh1806/Python-Program/blob/master/Scripts/P08_CountNumberOfWords.py)
 9. [Birthday Reminder](https://github.com/akhilesh1806/Python-Program/blob/master/Scripts/P09_ReminderApplication.py)
-10. [Script to download tutorial from tutorials point](https://github.com/akhilesh1806/Python-Program/blob/master/Scripts/P10_SciptToDownloadPDF.py)
+10. [Script to download tutorial from tutorials point](https://github.com/akhilesh1806/Python-Program/blob/master/Scripts/P10_ScriptToDownloadPDF.py)
 11. [Script to check email in your terminal](https://github.com/akhilesh1806/Python-Program/blob/master/Scripts/P11_CheckEmail.py)
 12. [Script to find devices connected to Network](https://github.com/akhilesh1806/Python-Program/blob/master/Scripts/P12_ScriptToFindDevicesConnectedInNetwork.py)
 13. [Script to create metadata for a file](https://github.com/akhilesh1806/Python-Program/blob/master/Scripts/P13_Python_Create_File_With_Metadata.py)
