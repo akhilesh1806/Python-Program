@@ -30,12 +30,12 @@ class Employee(object):
         return self.salary * other.salary
 
 if __name__ == '__main__':
-    Omkar = Employee('Omkar', 'Pathak', 1000)
-    Jagdish = Employee('Jagdish','Pathak', 2000)
-    print(Omkar)                # Full Name: Omkar Pathak (This output because of __str__ method overloading)
-    print(Jagdish)              # Full Name: Jagdish Pathak
-    print(Omkar + Jagdish)      # 3000 (This output because of __add__ method overloading)
-    print(Omkar * Jagdish)      # 2000000 (__mul__)
-    print(int(Omkar))           # 1000 (__int__)
-    print(int(Jagdish))         # 2000 (__int__)
-    print(Omkar==Jagdish)
+    Omkar = Employee('Akhilesh', 'Santoshwar', 1000)
+    Jagdish = Employee('Rajendra','Santoshwar', 2000)
+    print(Akhilesh)                # Full Name: Akhilesh Santoshwar (This output because of __str__ method overloading)
+    print(Rajendra)              # Full Name: Rajendra Santoshwar
+    print(Akhilesh + Rajendra)      # 3000 (This output because of __add__ method overloading)
+    print(Akhilesh * Rajendra)      # 2000000 (__mul__)
+    print(int(Akhilesh))           # 1000 (__int__)
+    print(int(Rajendra))         # 2000 (__int__)
+    print(Akhilesh==Rajendra)
