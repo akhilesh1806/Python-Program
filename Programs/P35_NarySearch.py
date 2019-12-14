@@ -58,7 +58,7 @@ if __name__ == '__main__':
 
 
     # OUTPUT:
-    # omkarpathak@omkarpathak-Inspiron-3542:~/Documents/GITs/Python-Programs/Programs$ python P35_NarySearch.py
+
     # Enter the key to search:433
     # Searching from 0 to 10000000
     # Array Size is:  10000000
