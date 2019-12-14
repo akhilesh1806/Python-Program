@@ -62,7 +62,7 @@ This is my collection of Python Programs.<br />
 2. [Breadth First Search](https://github.com/akhilesh1806/Python-Program/blob/master/Programs/P84_BreadthFirstSearch.py)
 3. [Depth First Search](https://github.com/akhilesh1806/Python-Program/blob/master/Programs/P85_DepthFirstTraversal.py)
 4. [Detect Cycle in Directed Graph](https://github.com/akhilesh1806/Python-Program/blob/master/Programs/P86_DetectCycleInDirectedGraph.py)
-5. [Detect Cycle in Undirected Graph](https://github.com/akhilesh1806/Data-Structures-using-Python/blob/master/Graph/P04_DetectCycleInUndirectedGraph.py)
+5. [Detect Cycle in Undirected Graph](https://github.com/akhilesh1806/Python-Program/blob/master/Programs/P87_DetectCycleInUndirectedGraph.py)
 6. [Topological Sort](https://github.com/akhilesh1806/Python-Program/blob/master/Programs/P68_TopologicalSort.py)
 7. [Prim's Algorithm](https://github.com/akhilesh1806/Data-Structures-using-Python/blob/master/Graph/P06_Prim's-Algorithm.py)
 
