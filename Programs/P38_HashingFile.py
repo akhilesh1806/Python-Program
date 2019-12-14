@@ -3,7 +3,7 @@
 
 import hashlib
 BLOCKSIZE = 65536           # Block read size if file is big enough
-fileToOpen = '/home/omkarpathak/Documents/GITs/Python-Programs/Scripts/howto.txt'
+fileToOpen = '/home/akhilesh1806/Documents/GITs/Python-Programs/Scripts/howto.txt'
 hasher = hashlib.md5()
 with open(fileToOpen, 'rb') as afile:
     buf = afile.read(BLOCKSIZE)
