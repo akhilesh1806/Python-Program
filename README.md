@@ -53,7 +53,7 @@ This is my collection of Python Programs.<br />
 2. [Binary Search Tree](https://github.com/akhilesh1806/Python-Program/blob/master/Programs/P43_BinarySearchTree.py)
 3. [Depth First Traversal](https://github.com/akhilesh1806/Python-Program/blob/master/Programs/P64_DepthFirstTraversal.py)
 4. [Breadth First Traversal](https://github.com/akhilesh1806/Python-Program/blob/master/Programs/P65_BreadthFirstTraversal.py)
-5. [Count Leaf Nodes](https://github.com/akhilesh1806/Data-Structures-using-Python/tree/master/Trees/P02_CountLeafNodes.py)
+5. [Count Leaf Nodes](https://github.com/akhilesh1806/Python-Program/blob/master/Programs/P81_count%20leaf%20nodes.py)
 6. [Building Tree from Preorder and Inorder](https://github.com/akhilesh1806/Data-Structures-using-Python/tree/master/Trees/P03_TreeFromInorderAndPreorder.py)
 7. [Print all the paths to leaf nodes](https://github.com/akhilesh1806/Data-Structures-using-Python/tree/master/Trees/P04_RootToLeafPaths.py)
 
